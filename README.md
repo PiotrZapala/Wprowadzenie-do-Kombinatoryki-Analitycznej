@@ -1,1 +1,1 @@
-# Wprowadzenie-do-Kombinatoryki-Analitycznej
+# Wprowadzenie do Kombinatoryki Analitycznej
